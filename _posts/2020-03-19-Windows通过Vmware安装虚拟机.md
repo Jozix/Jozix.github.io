@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  iOS Wifi 列表获取
-date: 2017-01-03 
+title:  Windows通过Vmware安装虚拟机
 tag: windows
 ---
 
